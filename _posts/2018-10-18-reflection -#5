@@ -1,4 +1,10 @@
 ---
 layout: post
 title: Sage Vega learning blog reflection #5
+date: 2018-10-18
+---
+
+This week we were assigned to make a flag of our choice. I chose the indonesia flag. I did this by defining "RR" to be a solid red 
+rectangle with a height of 300 and a width of 200. Next, I defined "WR" to be a solid white rectangle with a height of 300 and a width of 
+100. Finally, I used the "place-image function" to place WR on the bottom half of RR and got my flag.
 
