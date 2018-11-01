@@ -10,4 +10,4 @@ whatever you want, but you usually want a name that reflects what the function d
 domain is what the function expects. It contains the types of data the function uses to do its job. Some examples are numbers and strings.
 Finally, the last part of a function is the range. The range is what the function produces. It contains the type of data that the function
 returns when given the domain. I learned that contracts are very helpful when defining functions because it gives you a better idea of what
-the function does and how to use it. One example of a contract is 
+the function does and how to use it. 
