@@ -1,0 +1,14 @@
+layout: post
+title: Sage Vega learning blog reflection #8
+date: 2018-11-29
+---
+
+The question I will analyze is question 2.
+What is the name of the outermost function in scale(2, circle(40, "solid", "blue"))?
+(a) scale       (b) circle     (c) rectangle      (d) contract
+The question is asking to name the fuction that is outside of the parentheses.
+It is associated with MS1 because it involves properties of expressions.
+This is a novice level question because it requires naming surface level details.
+The answer to this question is (a) scale because it is the function outside out of the parentheses.
+Answer choice b is wrong because the circle function is in the parentheses.
+People may have got this question wrong because they couldn't remember what an outermost fuction is.
