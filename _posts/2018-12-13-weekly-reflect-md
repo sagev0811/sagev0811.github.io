@@ -1,0 +1,16 @@
+  ---
+  layout: post
+  title: Flag Project-In Process
+  date:2018-12-13
+  ---
+ ```include image
+size = 100
+width = size * 3
+height = size * 2
+BR = rectangle(width,height,"solid","blue")
+RR = rectangle(width,height,"solid","red")
+WR = rectangle(width * 2,height * 2,"solid","white")
+BR1 = place-image(BR,size,size / 2,WR)
+RR1 = place-image(RR,size * 5,size / 2,BR1)
+RR2 = place-image(RR,size,width + 50,RR1)
+BR2 = place-image(BR,size * 5,width + 50,RR2)```
