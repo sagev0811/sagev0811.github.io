@@ -25,7 +25,7 @@ In this program, I designed the flag for the Dominican Republic. I expect to get
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-I first defined the shapes I was going to use, then used functions to place the shapes to form the flag.
+
 ​
 
 
@@ -51,7 +51,7 @@ WR = rectangle(width * 2,height * 2,"solid","white")
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-This code here defines the blue, red, and white rectangles I used in the program.
+
 
 
 ## Program code
