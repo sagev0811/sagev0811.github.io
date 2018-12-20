@@ -23,18 +23,17 @@ In this program, I designed the flag for the Dominican Republic. I expect to get
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+
 I first defined the shapes I used, then used the place-image function to put those shapes together to form the flag.
 
 ​
 
 
-## Explain your code.
-## Explain your code.
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
 
+## Explain your code.
+
+
+I made rectangle functions using the previously defined functions for the width and height. BR is for the blue rectangles in the flag, RR is for the red rectangles, and WR is the white rectangle that makes the background of the flag.
 * * *
 
 ```
@@ -48,9 +47,7 @@ WR = rectangle(width * 2,height * 2,"solid","white")
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
+
 
 
 
