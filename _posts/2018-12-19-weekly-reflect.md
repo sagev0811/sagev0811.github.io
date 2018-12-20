@@ -24,7 +24,7 @@ In this program, I designed the flag for the Dominican Republic. I expect to get
 ## Describe your process.
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
+I first defined the shapes I used, then used the place-image function to put those shapes together to form the flag.
 
 ​
 
